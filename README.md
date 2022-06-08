@@ -9,9 +9,9 @@ This is a single-page text editor that runs in a browser and meets the PWA crite
 ![Screen Shot 2022-06-08 at 5 58 50 AM](https://user-images.githubusercontent.com/94569484/172731519-30d3a87b-6d0b-4804-b514-815a9d4e531c.png)
 
 
-[A deployed version can be viewed here.]((https://murmuring-retreat-46359.herokuapp.com/)
+[A deployed version can be viewed here.](https://murmuring-retreat-46359.herokuapp.com/)
 
-See the application's GitHub repository [here.]((https://github.com/jbtiglao/JATE)
+See the application's GitHub repository [here.](https://github.com/jbtiglao/JATE)
 
   ---
   ## Table of Contents
